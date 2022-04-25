@@ -1,10 +1,17 @@
-### Hi there 👋
+
+### Hi there, I'm Won Hee Lee 👋
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharuu19)](https://hits.seeyoufarm.com) 
+
+</div>
+
+![haruu19's github stats](https://github-readme-stats.vercel.app/api?username=haruu19&show_icons=true&theme=dracula)
 
 <!--
 **haruu19/haruu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
